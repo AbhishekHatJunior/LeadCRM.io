@@ -185,8 +185,7 @@ body {
   overflow: hidden;
 }
 
-.howitworks-heading,
-.howitworks-subheading span {
+.howitworks-heading{
   font-family: var(--font-family-poppins);
   font-weight: var(--font-weight-600);
   font-size: 36px;
@@ -510,6 +509,9 @@ body {
   }
   .footer-col {
     padding: 0 40px !important;
+  }
+  .red-card {
+    margin-bottom: 30px;
   }
 }
 

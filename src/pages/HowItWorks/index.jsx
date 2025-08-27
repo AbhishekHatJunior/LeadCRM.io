@@ -49,7 +49,7 @@ const HowItWorks = () => {
           <Col xs={12} className="hit-title-col">
             <p className="howitworks-heading">How it Works</p>
             <p className="howitworks-subheading">
-              From setup to success in <span>4 simple steps</span>
+              From setup to success in <span className="fw-600">4 simple steps</span>
             </p>
           </Col>
         </Row>
